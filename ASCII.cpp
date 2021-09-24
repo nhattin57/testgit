@@ -7,4 +7,5 @@ int main(int argc, char **argv){
     cin>>t;
     cout<<char(t);
     return 0;
+    Moi them du lieu
 }
